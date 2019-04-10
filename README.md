@@ -93,6 +93,7 @@ example json path syntax.
 We have CMake support.
 
     cd jsonspirit
+    mkdir bin
     mkdir build
     cd build
     cmake ..
